@@ -1,0 +1,16 @@
+{
+  "name": "graphql-mocking-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^0.9.1",
+    "graphql-tools": "^0.10.1",
+    "graphql-type-json": "^0.1.4"
+  }
+}
